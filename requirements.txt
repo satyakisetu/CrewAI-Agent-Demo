@@ -1,5 +1,4 @@
 crewai==0.22.5
-crewai[tools]
-langchain_openai
-langchain_community
+crewai-tools
 python-dotenv
+streamlit
